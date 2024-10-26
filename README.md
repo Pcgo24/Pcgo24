@@ -11,8 +11,7 @@
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 
-<br>
-## **Conecte-se comigo**
+## Conecte-se comigo
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/paulo-cesar-cardoso-domingues-11053a2bb/)
 <br>
 [![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:paulo.domingues.dev@gmail.com)
