@@ -12,7 +12,5 @@
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 
 ## Conecte-se comigo
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/paulo-cesar-cardoso-domingues-11053a2bb/)
-<br>
-[![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:paulo.domingues.dev@gmail.com)
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/paulo-cesar-cardoso-domingues-11053a2bb/) | [![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:paulo.domingues.dev@gmail.com)
 
