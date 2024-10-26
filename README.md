@@ -2,24 +2,16 @@
 
 🎓 Estudante de Engenharia de Software no 4º período <br>
 💻 Experiência com TI, manutenção e programação <br>
-📚 Conhecimento em:
+📚 Conhecimento em: <br>
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![SQL](https://img.icons8.com/color/48/000000/sql.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+
 <br>
 ## **Conecte-se comigo**
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/paulo-cesar-cardoso-domingues-1105a32bb/)
-<!--
-**Pcgo24/Pcgo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/paulo-cesar-cardoso-domingues-1105a32bb/) | [![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:paulo.domingues.dev@gmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
