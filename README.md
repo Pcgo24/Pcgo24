@@ -11,9 +11,8 @@
   - CSS ![image](https://github.com/user-attachments/assets/840165f2-efb1-413b-a0d3-d595cb4e4746)
   - JavaScript ![image](https://github.com/user-attachments/assets/9081bea5-50fe-4f85-9f00-ad9b700db2fd)
 <br>
-## Conecte-se comigo
-[LinkedIn]([https://www.linkedin.com/in/seu-perfil](https://www.linkedin.com/in/paulo-cesar-cardoso-domingues-1105a32bb/) | [E-mail](paulo.domingues.dev@gmail.com)
-
+## **Conecte-se comigo**
+[LinkedIn](https://www.linkedin.com/in/paulo-cesar-cardoso-domingues-1105a32bb/) | [E-mail](mailto:paulo.domingues.dev@gmail.com)
 <!--
 **Pcgo24/Pcgo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
