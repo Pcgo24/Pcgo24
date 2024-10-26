@@ -2,7 +2,9 @@
 
 🎓 Estudante de Engenharia de Software no 4º período <br>
 💻 Experiência com TI, manutenção e programação <br>
-📚 Conhecimento em: <br>
+
+
+## 📚 Conhecimento em: <br>
 ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 ![SQL](https://img.icons8.com/color/48/000000/sql.png)
