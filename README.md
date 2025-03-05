@@ -1,6 +1,6 @@
 # **Olá!, meu nome é Paulo**
 
-🎓 Estudante de Engenharia de Software no 4º período <br>
+🎓 Estudante de Engenharia de Software no 5º período <br>
 💻 Experiência com TI, manutenção e programação <br>
 
 ## 📚 Conhecimento em: <br>
