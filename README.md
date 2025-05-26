@@ -33,9 +33,8 @@
 
 ## 🏆 **Projetos em Destaque:**
 
-* 🏢 **[AUmigo](https://github.com/seu-usuario/AUmigo)** — Plataforma para conexão de amantes de pets (React + Node.js + Firebase)
-* 📅 **[Sistema de Gestão de Alimentos](https://github.com/seu-usuario/nome-do-repo)** — Controle de estoque, validade e categorização de alimentos (Laravel + MySQL)
-* 🌿 **Projeto MongoDB Salão de Beleza** — Sistema de cadastro de clientes e mídias (MongoDB)
+* 📅 **[Sistema de Gestão de Alimentos]([https://github.com/seu-usuario/nome-do-repo](https://github.com/Pcgo24/Gerenciador-de-Alimentos))** — Controle de estoque, validade e categorização de alimentos (Laravel + MySQL)
+* 🌿 **[Projeto MongoDB Salão de Beleza](https://github.com/Pcgo24/Projeto-DSWM-2)** — Sistema de cadastro de clientes e mídias (MongoDB)
 
 ---
 
@@ -49,15 +48,15 @@
 ## 📊 **Estatísticas do GitHub:**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Paulo GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pcgo24&show_icons=true&theme=radical" alt="Paulo GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=seu-usuario&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pcgo24&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pcgo24&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
