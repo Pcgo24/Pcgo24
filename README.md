@@ -41,7 +41,7 @@
 ## 📜 Certificados:
 
 <p>
-  <a href="[https://link-do-certificado.com](https://cursos.alura.com.br/certificate/paulocesarcrds4/java-criando-primeira-aplicacao)"><img src="https://img.shields.io/badge/Java-Completo-blue" alt="Java Certificate"/></a>
+  <a href="https://cursos.alura.com.br/certificate/paulocesarcrds4/java-criando-primeira-aplicacao"><img src="https://img.shields.io/badge/Java-Completo-blue" alt="Java Certificate"/></a>
   <a href="https://www.devmedia.com.br/certificado/tecnologia/sql/paulo-cesar-cardoso-domingues"><img src="https://img.shields.io/badge/SQL-Completo-blue" alt="SQL Certificate"/></a>
 </p>
 
