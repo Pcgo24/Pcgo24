@@ -17,7 +17,6 @@
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg)
-![Laravel](https://img.icons8.com/color/48/000000/laravel.png)
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 
