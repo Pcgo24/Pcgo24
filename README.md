@@ -33,7 +33,7 @@
 
 ## 🏆 **Projetos em Destaque:**
 
-* 📅 **[Sistema de Gestão de Alimentos]([https://github.com/seu-usuario/nome-do-repo](https://github.com/Pcgo24/Gerenciador-de-Alimentos))** — Controle de estoque, validade e categorização de alimentos (Laravel + MySQL)
+* 📅 **[Sistema de Gestão de Alimentos](https://github.com/Pcgo24/Gerenciador-de-Alimentos)** — Controle de estoque, validade e categorização de alimentos (Laravel + MySQL)
 * 🌿 **[Projeto MongoDB Salão de Beleza](https://github.com/Pcgo24/Projeto-DSWM-2)** — Sistema de cadastro de clientes e mídias (MongoDB)
 
 ---
