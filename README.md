@@ -38,10 +38,20 @@
 
 ---
 
-## 🔗 **Conecte-se comigo:**
+## 📜 Certificados:
 
+<p>
+  <a href="[https://link-do-certificado.com](https://cursos.alura.com.br/certificate/paulocesarcrds4/java-criando-primeira-aplicacao)"><img src="https://img.shields.io/badge/Java-Completo-blue" alt="Java Certificate"/></a>
+  <a href="https://www.devmedia.com.br/certificado/tecnologia/sql/paulo-cesar-cardoso-domingues"><img src="https://img.shields.io/badge/SQL-Completo-blue" alt="SQL Certificate"/></a>
+</p>
+
+
+---
+
+## 🔗 Conecte-se comigo:
 [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/paulo-cesar-cardoso-domingues-1105a32bb/)
 [![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:paulo.domingues.dev@gmail.com)
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new--v1.png)](https://www.instagram.com/paulo.pcgo/)
 
 ---
 
