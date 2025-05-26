@@ -40,29 +40,14 @@
 
 ## 📜 Certificados:
 
-<p>
-  <a href="https://cursos.alura.com.br/certificate/paulocesarcrds4/java-criando-primeira-aplicacao"><img src="https://img.shields.io/badge/Java-Completo-blue" alt="Java Certificate"/></a>
-  <a href="https://www.devmedia.com.br/certificado/tecnologia/sql/paulo-cesar-cardoso-domingues"><img src="https://img.shields.io/badge/SQL-Completo-blue" alt="SQL Certificate"/></a>
-</p>
-
-## 📜 Certificados:
-
 <p align="center">
   <a href="https://cursos.alura.com.br/certificate/paulocesarcrds4/java-criando-primeira-aplicacao">
     <img src="https://img.shields.io/badge/Java-Completo-%23007396?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
-  <a href="https://link-do-certificado-python.com">
-    <img src="https://img.shields.io/badge/Python-Completo-%233776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  </a>
   <a href="https://www.devmedia.com.br/certificado/tecnologia/sql/paulo-cesar-cardoso-domingues">
     <img src="https://img.shields.io/badge/SQL-Completo-%23007ACC?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
-  <a href="https://link-do-certificado-web.com">
-    <img src="https://img.shields.io/badge/Desenvolvimento_Web-Completo-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
 </p>
-
-
 
 ---
 
@@ -87,6 +72,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pcgo24&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-Se quiser posso gerar as imagens, banners ou personalizar ainda mais! 🚀
