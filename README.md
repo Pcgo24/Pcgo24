@@ -24,15 +24,16 @@
 
 ## 🚀 **Atualmente aprendendo:**
 
-* Desenvolvimento Web Full Stack (React | Node.js | Laravel)
+* Desenvolvimento Web Full Stack (PHP | Laravel)
 * Banco de Dados Relacional e Não Relacional (SQL | MongoDB)
-* Firebase e autenticação de usuários
+* Teste com Cypress
 * Clean Code, Design Patterns e Arquitetura de Software
 
 ---
 
 ## 🏆 **Projetos em Destaque:**
 
+* 📝 **[TaskManager](https://github.com/Vitor-Bobato/TaskManager)** --  Aplicativo web destinado a organização de tarefas (Laravel + PHP + MySQL + JS)
 * 📅 **[Sistema de Gestão de Alimentos](https://github.com/Pcgo24/Gerenciador-de-Alimentos)** — Controle de estoque, validade e categorização de alimentos (Laravel + MySQL)
 * 🌿 **[Projeto MongoDB Salão de Beleza](https://github.com/Pcgo24/Projeto-DSWM-2)** — Sistema de cadastro de clientes e mídias (MongoDB)
 
