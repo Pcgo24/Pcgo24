@@ -1,6 +1,6 @@
 # 👋 **Olá, eu sou o Paulo!**
 
-🎓 **Estudante de Engenharia de Software — 5º Período**
+🎓 **Estudante de Engenharia de Software — 6º Período**
 💻 **Apaixonado por tecnologia, desenvolvimento de software e soluções criativas.**
 
 ---
