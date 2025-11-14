@@ -4,14 +4,6 @@
     Estudante de Engenharia de Software | Desenvolvedor | Aprendendo novas tecnologias
   </p>
 
-  <!-- Profile GIF / imagem -->
-  <p>
-    <!-- Substitua pela sua imagem ou GIF animado -->
-    <img src="https://github.com/Pcgo24.png" width="120" style="border-radius:50%;" alt="Pcgo24 avatar" />
-  </p>
-</div>
-
----
 
 <!-- Sobre -->
 ## Sobre mim
