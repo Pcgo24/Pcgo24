@@ -1,75 +1,71 @@
-# 👋 **Olá, eu sou o Paulo!**
+<div align="center">
+  <h1>Olá 👋, eu sou o Paulo Cesar C. Domingues</h1>
+  <p>
+    Estudante de Engenharia de Software | Desenvolvedor | Aprendendo novas tecnologias
+  </p>
 
-🎓 **Estudante de Engenharia de Software — 6º Período**
-💻 **Apaixonado por tecnologia, desenvolvimento de software e soluções criativas.**
-
----
-
-## 🛠️ **Tecnologias e Ferramentas:**
-
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![SQL](https://img.icons8.com/color/48/000000/sql.png)
-![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-![React](https://img.icons8.com/color/48/000000/react-native.png)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg)
-![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
-![Git](https://img.icons8.com/color/48/000000/git.png)
+  <!-- Profile GIF / imagem -->
+  <p>
+    <!-- Substitua pela sua imagem ou GIF animado -->
+    <img src="https://github.com/Pcgo24.png" width="120" style="border-radius:50%;" alt="Pcgo24 avatar" />
+  </p>
+</div>
 
 ---
 
-## 🚀 **Atualmente aprendendo:**
-
-* Desenvolvimento Web Full Stack (PHP | Laravel)
-* Banco de Dados Relacional e Não Relacional (SQL | MongoDB)
-* Teste com Cypress
-* Clean Code, Design Patterns e Arquitetura de Software
-
----
-
-## 🏆 **Projetos em Destaque:**
-
-* 📝 **[TaskManager](https://github.com/Vitor-Bobato/TaskManager)** --  Aplicativo web destinado a organização de tarefas (Laravel + PHP + MySQL + JS)
-* 📅 **[Sistema de Gestão de Alimentos](https://github.com/Pcgo24/Gerenciador-de-Alimentos)** — Controle de estoque, validade e categorização de alimentos (Laravel + MySQL)
-* 🌿 **[Projeto MongoDB Salão de Beleza](https://github.com/Pcgo24/Projeto-DSWM-2)** — Sistema de cadastro de clientes e mídias (MongoDB)
+<!-- Sobre -->
+## Sobre mim
+- ✨ Apaixonado por encontrar soluções elegantes e escaláveis.
+- 🛠️ Tecnologias: Java, C++, Python, SQL, JavaScript, Node, Laravel, PHP, Flutter.
+- 🎯 Interesses: Backend, APIs, Arquitetura de Software, Banco de Dados e Analise de Dados.
 
 ---
 
-## 📜 Certificados:
+<!-- Projects Pinned -->
+## 🔭 Projetos em destaque
 
+- [Sicredo](https://github.com/Pcgo24/Sicredo) — Projeto da faculdade desenvolvido em flutter para controle de despesas.
+- [TaskManager](https://github.com/Vitor-Bobato/TaskManager) — Sistema de controle de tarefas e compromissos, feito para a atividade final da matéria de Desenvolvimento Web Mobile III.
+
+Para ver todos os projetos: [Meus Repositórios](https://github.com/Pcgo24?tab=repositories)
+
+---
+
+<!-- Interactive Widgets / Stats -->
+## 📈 Estatísticas (dinâmicas)
+<!-- Troque "Pcgo24" pelo seu usuário se adaptar a outro perfil -->
 <p align="center">
-  <a href="https://cursos.alura.com.br/certificate/paulocesarcrds4/java-criando-primeira-aplicacao">
-    <img src="https://img.shields.io/badge/Java-Completo-%23007396?style=for-the-badge&logo=java&logoColor=white"/>
-  </a>
-  <a href="https://www.devmedia.com.br/certificado/tecnologia/sql/paulo-cesar-cardoso-domingues">
-    <img src="https://img.shields.io/badge/SQL-Completo-%23007ACC?style=for-the-badge&logo=mysql&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🔗 Conecte-se comigo:
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/paulo-cesar-cardoso-domingues-1105a32bb/)
-[![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:paulo.domingues.dev@gmail.com)
-[![Instagram](https://img.icons8.com/color/48/000000/instagram-new--v1.png)](https://www.instagram.com/paulo.pcgo/)
-
----
-
-## 📊 **Estatísticas do GitHub:**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pcgo24&show_icons=true&theme=radical" alt="Paulo GitHub Stats" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Pcgo24&show_icons=true&theme=dark&count_private=true" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pcgo24&layout=compact&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pcgo24&theme=radical" alt="GitHub Streak" />
+  <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=Pcgo24&theme=onedark&margin-w=15&margin-h=15" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pcgo24&layout=compact&theme=radical" alt="Top Languages" />
+  <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pcgo24&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
+
+
+---
+
+## 📚 Tecnologias e ferramentas
+<details>
+<summary>Principais</summary>
+
+- Linguagens: JavaScript, Python, Java e C++
+- Frameworks/Bibliotecas: Node.js e React
+- Banco de dados: PostgreSQL, MongoDB e MySQL
+- DevOps: Docker, GitHub Actions
+
+</details>
+
+---
+
+## 📌 Como me encontrar
+- Email: <paulo.domingues.dev@gmail.com>
+- GitHub: https://github.com/Pcgo24
+- Instagram: https://www.instagram.com/paulo.pcgo/
+- LinkedIn: https://www.linkedin.com/in/paulo-cesar-cardoso-domingues-1105a32bb/
 
