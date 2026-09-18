@@ -17,7 +17,7 @@
 Trabalho com **suporte de TI em campo** — manutenção de computadores, impressoras e infraestrutura em ambientes industriais — e nas horas vagas estudo Engenharia de Software e desenvolvo projetos web, alguns como freelance.
 
 - 🔭 Atualmente trabalhando no meu **TCC**: um sistema de helpdesk interno com foco em UX Design
-- 🥋 Co-mantenedor do site comunitário [Heróis do Tatame](https://github.com/Pcgo24) — projeto de extensão universitária
+- 🥋 Co-mantenedor do site comunitário [Heróis do Tatame](https://github.com/Pcgo24/Herois-do-Tatame) — projeto de extensão universitária
 - 🌱 Estudando arquitetura de software, boas práticas de UX e testes automatizados (Cypress, PHPUnit)
 - 🎯 Interesses: Backend, APIs, arquitetura, bancos de dados e desenvolvimento web full-stack
 
